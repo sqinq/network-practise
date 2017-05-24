@@ -1,1 +1,1 @@
-# network-practise
+# udp and tcp socket
